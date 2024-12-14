@@ -1,0 +1,53 @@
+body{
+    background-color:aquamarine;
+    width: 100%;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    margin: 25px;
+    padding: 25px;
+
+}
+.sub{
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    left: 10%;
+    right: 10%;
+    margin: 10px; 
+    padding: 10px;
+}
+header{
+    background-color: grey;
+    color: black;
+    padding: 10px;
+}
+section{
+    padding: 10px;
+    color: black;
+    font-size: 15px;
+    background-color: white;
+}
+.name, .email, .checkbox{
+    padding: 10px;
+    margin: 10px;
+}
+.name input, .email input{
+    width: 900px;
+}
+footer{
+    background-color: grey;
+    
+}
+.button{
+    font-size: 20px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+    padding: 10px;
+    width:980px;
+    background-color: green;
+    border: 1px solid green ;
+
+}
